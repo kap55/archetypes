@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyArchetype", "MoneyArchetype\MoneyArchetype.csproj", "{AEC3520E-7EF1-45CE-B3BF-51EE5070ECC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{364089C7-7915-443E-A166-5B8EC4DBFF6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC3520E-7EF1-45CE-B3BF-51EE5070ECC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC3520E-7EF1-45CE-B3BF-51EE5070ECC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC3520E-7EF1-45CE-B3BF-51EE5070ECC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC3520E-7EF1-45CE-B3BF-51EE5070ECC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364089C7-7915-443E-A166-5B8EC4DBFF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364089C7-7915-443E-A166-5B8EC4DBFF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364089C7-7915-443E-A166-5B8EC4DBFF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364089C7-7915-443E-A166-5B8EC4DBFF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF48B8F-C52B-4DFA-8400-E4641B5EB180}
+	EndGlobalSection
+EndGlobal
